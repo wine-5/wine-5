@@ -24,12 +24,12 @@
 ```cpp
 class Wine5 {
 public:
-    std::string role = "Game Developer";
-    std::string location = "札幌デザイン&テクノロジー専門学校";
-    int year = 2;
-    std::string currentQuest = "ゲーム開発の修行中";
-    std::vector<std::string> mainWeapons = {"C++", "C#"};
-    std::string motto = "プログラミングを楽しむ";
+    std::string role{"Game Developer"};
+    std::string location{"札幌デザイン&テクノロジー専門学校"};
+    int year{3};
+    std::string currentQuest{"ゲーム開発の修行中"};
+    std::vector<std::string> mainWeapons{"C++", "C#"};
+    std::string motto{"プログラミングを楽しむ"};
 };
 ```
 
@@ -57,6 +57,8 @@ public:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <!-- ## 🏆 ACHIEVEMENTS
