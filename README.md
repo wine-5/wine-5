@@ -12,9 +12,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=GAME+DEVELOPER+%7C+札幌デザイン＆テクノロジー専門学校;Unity+%7C+C%2B%2B+%7C+C%23+Developer;Creating+Interactive+Experiences;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logoColor=white)](https://wine-5.github.io/portfolio/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wine_program)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?publisher=wine-5)
 [![UnityRoom](https://img.shields.io/badge/UnityRoom-222222?style=for-the-badge&logo=unity&logoColor=white)](https://unityroom.com/users/wine-555)
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wine_program)
 </div>
 
 ---
