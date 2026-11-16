@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/wine-5/wine-5/main/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    
